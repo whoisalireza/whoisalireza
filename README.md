@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm Alireza Chahardori, I live in Hamburg, Germany and I am a Student at Hamburg University of Technology (TUHH).
+
+Among my interests are:
+
+- Game Development
+- Graphics Programming
+- Low-Level Programming
+
+- 🔭 I’m currently working on my first small game, completely written in pure C using the raylib library.
+- 👯 I’m looking to collaborate on any video game for any platform!
+- 🌱 I’m currently learning how to write my first ray-tracer...
+- 📫 How to reach me: Just E-Mail me or message me on Instagram, both linked in my profile.
+
 <!--
 **whoisalireza/whoisalireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
