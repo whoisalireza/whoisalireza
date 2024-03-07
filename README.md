@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alireza Chahardori, I live in Hamburg, Germany and I am a Student at Hamburg University of Technology (TUHH).
+I'm Alireza Chahardori, I live in Hamburg, Germany and I am a Student of Computer Science at Hamburg University of Technology (TUHH).
 
 Among my interests are:
 
