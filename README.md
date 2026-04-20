@@ -1,29 +1,16 @@
 ### Hi there 👋
 
-I'm Alireza Chahardori, I live in Hamburg, Germany and I am a Student of Computer Science at Hamburg University of Technology (TUHH).
+I'm Alireza Chahardori, a Computer Science graduate from Hamburg University of Technology (TUHH), based in Hamburg, Germany.
 
-Among my interests are:
+I'm particularly interested in:
 
-- Game Development
-- Graphics Programming
-- Low-Level Programming
+- Embedded Systems
+- Low Level Programming
+- Engine and Game Development
+- IT Security
 
-- 🔭 I’m currently working on my first small game, completely written in pure C using the raylib library.
-- 👯 I’m looking to collaborate on any video game for any platform!
-- 🌱 I’m currently learning how to write my first ray-tracer...
-- 📫 How to reach me: Just message me on my LinkedIn, Xing or Instagram, all linked in my profile.
+My background includes practical experience in software development, automation, API integration, CRM systems, and data driven web applications. At The Gut Co, I am currently working on a local BI dashboard for e commerce and ad performance analysis using React, Node.js, and PostgreSQL. Previously, I worked on automation solutions, API integrations, and CRM related systems at C4 Energy.
 
-<!--
-**whoisalireza/whoisalireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building reliable technical solutions and working close to the system level. Currently, I am also expanding my skills through personal projects, including a small game developed in C with raylib.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to connect with me via LinkedIn.
